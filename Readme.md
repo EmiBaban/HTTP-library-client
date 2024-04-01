@@ -1,4 +1,4 @@
-Tema 2 PCom - Baban Mihai-Emilian 324CD
+Baban Mihai-Emilian 324CD
 
 Pentru a implementa m-am folosit de scheltul din laboratorul 7.
 
